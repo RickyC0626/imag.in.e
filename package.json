@@ -1,0 +1,13 @@
+{
+  "name": "imag.in.e",
+  "version": "0.1.0",
+  "description": "Image manipulation experiments",
+  "main": "index.js",
+  "repository": "git@github.com:RickyC0626/imag.in.e.git",
+  "author": "Ricky Chon <rickychon99@gmail.com>",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "sharp": "^0.32.1"
+  }
+}
